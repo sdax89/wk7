@@ -1,6 +1,13 @@
 #include <iostream>
 #include"BinaryTree.h"
+#include"IntBinaryTree.h"
 using namespace std;
+
+// Savannah Mills
+// CISS 243
+// wk7 project
+// August 2019
+// Chapter 21 #3 Leaf Counter
 
 /*
 Write a member function, for either the template you designed in Programming Challenge 1 or the IntBinaryTree class,
@@ -11,9 +18,7 @@ Demonstrate the function in a driver program.
 
 
 int main()
-
 {
-
 	BinaryTree<char> tree;
 
 	cout << "Inserted nodes. " << endl;
